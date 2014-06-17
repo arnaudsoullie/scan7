@@ -2,9 +2,8 @@
 # -*- coding: utf-8 -*-
 
 import snap7
-import pprint
 
-SIEMENS_S71200 = 'XX.XX.XX.XX'
+SIEMENS_S71200 = '192.168.0.50'
 
 class Siemens(object):
 
